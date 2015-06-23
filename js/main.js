@@ -6,7 +6,7 @@ $(document).ready(function() {
 
   if (shouldPlayVideo) {
     $('.part-0 .overlay').tubular({
-      videoId: 'C5CSVSuUVxY',
+      videoId: '5u9Hf8WpJ04',
       start: 3,
       mute: true
     });
